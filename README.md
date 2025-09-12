@@ -6,6 +6,13 @@ A simple and customizable low-level CSS library generator with automatic documen
 
 [Website](https://ita-design-system.github.io/bricss/) | [Example in use](https://itautomotive-dev.github.io/marques-blanches-ui/) | [BRiCSS Website UI](https://ita-design-system.github.io/bricss-website-ui/)
 
+They are using BRiCSS:
+
+| Skoda | Hyundai | OpenHive |
+|-|-|-|
+| [![Skoda Rent](https://cdn.jsdelivr.net/gh/ita-design-system/ita-medias@main/logo-skoda-rent.svg)](https://rent.skoda.fr/) | <a href="https://mocean-rent.hyundai.fr"><img src="https://github.com/user-attachments/assets/bf07dce5-ea7a-40b3-9b4a-f5bca2c607f1" alt="Hyundai Mocean Rent" height="26"></a> | <a href="https://openhive.eu"><img src="https://github.com/user-attachments/assets/95a7b956-abc4-4ac0-8ee7-86eb5d2e6a0c" width="128" alt="openhive"></a> |
+
+
 ## General principles
 
 * **Simple responsive naming convention**: BRiCSS is a simple low-level CSS abstraction and a naming convention based on abbreviations of CSS class names and attributes.
