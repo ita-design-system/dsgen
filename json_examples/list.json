@@ -58,7 +58,7 @@
         {
             "title": "BRiCSS website",
             "description": "The full JSON used for BRiCSS website and current generator.",
-            "jsonUrl": "./json_examples/10_bricss_website/build.json"
+            "jsonUrl": "./json_examples/20_bricss_website/build.json"
         }
     ]
 }
