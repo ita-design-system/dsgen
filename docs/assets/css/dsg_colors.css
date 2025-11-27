@@ -1,3 +1,12 @@
+.c-quaternary-200:hover {
+    color: var(--dsg-colors-quaternary-200);
+}
+.c-secondary-200:hover {
+    color: var(--dsg-colors-secondary-200);
+}
+.c-tertiary-200:hover {
+    color: var(--dsg-colors-tertiary-200);
+}
 
 .c-quaternary-200\:hover:hover {
     color: var(--dsg-colors-quaternary-200);
